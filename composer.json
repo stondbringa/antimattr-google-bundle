@@ -10,7 +10,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/stondbringa/antimattr-google-bundle"
+            "url": "https://github.com/stondbringa/antimattr-google-bundle.git"
         }
     ],
     "require": {
