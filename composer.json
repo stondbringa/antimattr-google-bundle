@@ -1,6 +1,6 @@
 {
     "name": "stondbringa/antimattr-google-bundle",
-        "type": "symfony-bundle",
+    "type": "symfony-bundle",
     "description": "Google Bundle for Symfony2",
     "keywords": ["adwords", "analytics", "ecommerce", "enhanced ecommerce", "google", "impression", "product", "maps", "symfony"],
     "homepage": "http://github.com/antimattr/google-bundle",
