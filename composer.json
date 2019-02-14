@@ -1,5 +1,5 @@
 {
-    "name": "stondbringa/antimattr-google-bundle",
+    "name": "antimattr/google-bundle",
     "type": "symfony-bundle",
     "description": "Google Bundle for Symfony2",
     "keywords": ["adwords", "analytics", "ecommerce", "enhanced ecommerce", "google", "impression", "product", "maps", "symfony"],
@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "stondbringa/antimattr-common-product": "~1.0@stable"
+        "antimattr/common-product": "~1.0@stable"
     },
     "require-dev": {
         "antimattr/test-case": "~1.0@stable",
