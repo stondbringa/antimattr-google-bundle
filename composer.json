@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "antimattr/common-product": "~1.0@stable"
+        "antimattr/common-product": "dev-master"
     },
     "require-dev": {
         "antimattr/test-case": "~1.0@stable",
